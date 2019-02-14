@@ -13,3 +13,9 @@
 
 # Detailed instruction and Youtube link
 <img width="475" alt="screen shot 2019-02-13 at 9 31 16 pm" src="https://user-images.githubusercontent.com/42780499/52762915-d71cb380-2fd6-11e9-8cd3-75bb85abae28.png">
+
+# Built with:
+- HTML
+- CSS
+- JavaScript
+- jQuery
