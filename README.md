@@ -1,6 +1,8 @@
 # apiCapstoneApp
 "find easy recipes" application asks users to enter the name of a meal or main ingredient, and returns recipes with pictures and link to Youtube video tutorial. 
 
+# Live Demo https://guljankg.github.io/apiCapstoneApp/
+
 # Screenshots of the "find easy recipes" application
 
 # Landing page
