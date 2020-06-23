@@ -37,7 +37,7 @@ margin: 0 auto;
 width: 100px;
 display: block;
 border-radius: 10%;
-background-color:  rgb(14, 99, 14);
+background-color:  rgb(18, 136, 87);
 color: white;
 font-size: 20px;
 font-family: 'Kaushan Script';
@@ -48,7 +48,7 @@ cursor: -webkit-grab;
 h1 {
 margin-top: 10%;
 text-align: center;
-color: rgb(14, 99, 14);
+color: rgb(18, 136, 87);
 font-family: 'Kaushan Script';
 font-size: 50px;
 }
