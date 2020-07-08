@@ -28,7 +28,7 @@ margin: 0 auto;
     height: 40px;
     display: block;
     font-size: 1em;
-    border-radius: 7%;
+    border-radius: 15%;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;    
 }
 
@@ -36,7 +36,7 @@ margin: 0 auto;
 margin: 0 auto;
 width: 100px;
 display: block;
-border-radius: 10%;
+border-radius: 15%;
 background-color:  rgb(18, 136, 87);
 color: white;
 font-size: 20px;
